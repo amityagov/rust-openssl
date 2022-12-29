@@ -5,4 +5,7 @@ members = [
     "openssl-macros",
     "openssl-sys",
     "systest",
+    "openssl-gost",
+    "openssl-gost-sys",
+    "openssl-gost-test"
 ]
