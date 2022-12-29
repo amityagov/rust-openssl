@@ -1,0 +1,3 @@
+[submodule "openssl-gost-engine"]
+	path = openssl-gost-engine
+	url = git@github.com:amityagov/openssl-gost-engine.git
